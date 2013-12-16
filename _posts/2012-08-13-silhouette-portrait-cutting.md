@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "Silhouette Portrait Cutting"
+date:   2012-08-13
+---
+
+![](/assets/images/IMG_8375.jpg)
+## Things Left Behind
+Since moving out of my parents house and living in my own home with my husband ( and our puppy Quincy), I find myself thinking more and more about the things I might have left being in the move and what can be used as home decor. Being a homeowner has caused me to think more about those alternative uses and creative ways to get the most out of what I have to save a bit. So thinking of all of the boxes of clothes and miscellaneous things that are still there two years later, I remembered my old silhouette cut out from when I was little. It’s a bit random but when you leave home you can get a bit nostalgic for those childhood things.
+
+## Simple Silhouettes
+
+I remember vividly the day in elementary school where all the boys and girls in my class waited patiently while the lights were turned off and the clunky overhead projector was used to flash a light in our direction and create our silhouette portraits that were carefully traced on to paper next to us. I always loved these profile pictures and the sentimental quality to them. The funny thing is that I can’t seem to find my cutout at my parent’s house after much searching. Maybe it was only sentimental for me or was misplaced, after all it has been a while. Either way, I will make a new one. People tell me I have a baby face so I probably won’t look too different many years later. There are several methods to achieve a portrait, and this is the perfect opportunity to try a few.
+
+## A Little Background
+
+Silhouette portraits have a rich history, which explains why there are numerous methods for creating them. Some are simple in that they are cut with just scissors while other methods resulted from complicated and in some cases dangerous looking contraptions that were very rudimentary steps on the way towards the development of photography. Shadow portraits, as they have been called, date back, according to some historians, to the days of ancient Rome and Greece as seen in Greece’s well known red and black figure pottery. This type of portraiture continued in popularity through the years and came to a peak in the 18th and 19th centuries in Europe and later the U.S.. Shadow portraits were an inexpensive method to capture a likeness while an oil painting was incredibly expensive and time consuming.
+
+## A La Silhouette
+
+The term silhouette as we know it has so many meanings and most of them positive. I think of the slimming silhouette of someone wearing a little black dress or a suit on a night out. They are forgiving and tend to show just an outline of a figure that is flattering and can be rather mysterious and intriguing.
+
+The term silhouette actually has its origins in France from a man named Ettiene de Silhouette who was the Finance Minister for Louis XV in 1759. He, as well as many others in the French court, was very out of touch with the needs of the French people and of course their finances prior to the French Revolution. And, as the man in charge of the budget of France, he was probably the least in touch of them all. He was associated with being cheap and taxed the French exorbitantly. He was often seen indulging in his hobby of cutting little portraits out of black paper rather than crunching some numbers. The people of France were outraged by this and would show their disdain by dressing “a la silhouette,” in all black, during their protests. His name was associated with anything done in the simplest inexpensive manner. Hence the name for these simple portraits done with a scissor and paper. It would take years before the negative association with the French Minister would be lost and silhouettes would gain in popularity with the masses and not just the lower class.
+
+## Alternative Methods
+
+Silhouettes can be made in several manners, each with slight variations from the others but with the same desired effect. Hollow cut silhouettes are made by cutting away from a lighter colored paper which is mounted on a darker background to show through the shape cut out. Some earlier silhouettes were cut from black paper and details such as collars, hair and jewelry would be watercolor painted on. And there is the more traditional scissor cutting from black paper mounted on a light background. Some can also incorporate extremely thin inner cuts to show added detail in the European style.
+
+In the mid 19th century new inventions were created to create more accurate portraits without the use of free cutting, but rather used intricate and sharp looking mechanisms that would trace your outline and create the image at the other end of the long pole across the room. I would be afraid to move or blink. Needless to say their popularity was shortlived.The camera obscura, an early step towards photography was created to scale down the larger portraits that were produced by other methods. Other artists used light and shadow to create the silhouettes but these could only be done after sunset. Silhouettes were also a popular way for people to study facial features of a person to create a personality analysis. This is called physiognomy, and Catherine de Medici was supposedly a big fan of this science.
+
+## The Appeal
+
+I love silhouettes for their ability to capture a moment in time, just as a photo but in a mysterious way. The viewer has to fill in the blanks and use their imagination a bit in some cases. They obviously hark back to an age old tradition and are rather timeless. And just as the commoners of France felt; they are relatively inexpensive, quick to produce and create a striking likeness in a rather flattering way. And who doesn’t like that! The surprising thing is that with such a long lasting appeal, there are less than twenty free cutting silhouettists in the entire United States. Interesting…is my future career calling? Teaching is certainly over saturated at the moment. Hmmm…
+
+![](/assets/images/IMG_8376.jpg)
+
+## Snip Snap
+
+So to recreate my very own silhouette, as mine is M.I.A., I first attempted the free cutting of my silhouette based on a photo of myself and added slight details in the European style. This method involves looking at the subject in person or a photo and cutting what you see repeatedly looking back and forth to get all the details. I think I was fairly successful for not having the supplies that the professionals have. Usually a thin paper is used with black on one side and white on the other, as well as surgical scissors to get in those tight spots. I used decorative card stock and small sewing scissors. Needless to say if I pursue this further I think it would be a bit more precise with different tools but I am of the mindset of use what you’ve got and see how it goes and assess afterwards. So far so good. I think with practice and the right tools I could get better.
+
+The next method was the tried and true trace method. I asked my husband to trace my shadow onto a large paper taped to the wall while I sat in the dark between the paper and a flashlight casting my shadow. This method works great, however scale of size is a bit more complex as my tracing was huge. Think about when you look at your shadow mid afternoon-isn’t it larger than you. What I did to remedy this was to take a photo of it with my iPhone and printed it and it came out from the printer approximately 3×5 inches. You might need to scale it in your printer tool to get the size you would like. I used this to then cut out my portrait from dark paper and will mount it on a lighter paper and frame it. Both methods are great and achieve wonderful results. For those that are not as crafty or good with scissors I suggest the tracing method as the free cut requires a bit of practice. They both came out great. I just need to find some antique oval frames and so I can hang them above my humidor table in my little green room. I am now thinking how I’m going to get my puppy Quincy to sit still long enough to do his portrait. Good luck with your silhouette and let me know how they come out.

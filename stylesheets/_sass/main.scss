@@ -1,0 +1,254 @@
+//  IMPORTS
+//----------------------------------------------------------------------------------------
+
+@import "base";
+
+//  COLORS
+//----------------------------------------------------------------------------------------
+
+$color-black: #373737;
+$color-white: #ffffff;
+$color-gray: #e2e2e2;
+$color-orange: #e3b11b;
+$color-orange-dark: #bd8025;
+
+$color-background: $color-gray;
+
+
+
+/*  SELECTION COLORS
+----------------------------------------------------------------------------------------*/
+
+$selection-color: $color-black;
+$selection-text: invert($selection-color);
+::selection {
+    background: $selection-color;
+    text-shadow: none;
+    color: $selection-text;
+}
+::-moz-selection {
+    background: $selection-color;
+    text-shadow: none;
+    color: $selection-text;
+}
+img::selection      {background: transparent;}
+img::-moz-selection {background: transparent;}
+body {-webkit-tap-highlight-color: rgba(131, 131, 131, 0.5);}
+
+
+/*  TYPOGRAPHY
+----------------------------------------------------------------------------------------*/
+/* NOTE: Loading svg before ttf for better rendering in chrome for windows */
+@font-face {
+    font-family: 'Otari-Light';
+    src: url('/assets/fonts/23511F_0_0.eot');
+    src: url('/assets/fonts/23511F_0_0.eot?#iefix') format('embedded-opentype'),
+         url('/assets/fonts/23511F_0_0.woff') format('woff'),
+         url('/assets/fonts/23511F_0_0.ttf') format('truetype');
+    -webkit-font-smoothing: antialiased;
+}
+
+// Vertical Rhythm
+$base-font-size: 16px;
+$base-line-height: 25px;
+
+@include establish-baseline;
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    background: $color-background;
+    color: $color-black;
+}
+
+h1,h2,h3,h4,h5,h6 {}
+
+h1,{}
+
+h2 {}
+
+h3 {}
+
+h4 {}
+
+h5 {}
+
+h6 {}
+
+
+code,
+pre {
+    font-family: Monaco, 'Courier New', monospace;
+}
+
+sup,
+sub {line-height: 0em;}
+sup {vertical-align: super;}
+sub {vertical-align: sub;}
+
+i,
+em {font-style: italic;}
+
+b,
+strong {font-weight: bold;}
+
+p {}
+
+blockquote {}
+
+figure {}
+
+figure-caption {}
+
+ol, ul {}
+
+li {}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+* {@include box-sizing('border-box');}
+
+/*  LINKS
+----------------------------------------------------------------------------------------*/
+
+a {
+    color: $color-orange;
+    &:hover, &:focus, &:active {
+        color: $color-orange-dark;
+    }
+}
+
+
+/*  LAYOUT
+----------------------------------------------------------------------------------------*/
+
+$grids: 4;
+$grids: add-grid(8 at 520px);
+$grids: add-grid(12 at 960px);
+$gutters: 1/2;
+$include-clearfix: true;
+
+body {margin: 1em;}
+
+/*  STYLE
+----------------------------------------------------------------------------------------*/
+
+.header {
+    position: relative;
+        text-align: center;
+        @include adjust-font-size-to(28px);
+    .nameplate {
+        border-bottom: 2px dashed #aac3d0;
+        a:link {
+            font-family: Otari-Light, sans-serif;
+            color: #e3b11b;
+            display: inline-block;
+            text-decoration: none;
+            text-transform: lowercase;
+        }
+    }
+}
+
+
+@mixin social-icon($img_main:null,$img_fallback:null) {
+    display: block;
+    width: 4em;
+    height: 2em;
+    margin: auto;
+    @if $img_fallback {background-image: url($img_fallback);}
+    @if $img_main {background-image: url($img_main), none;}
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 4em;
+}
+.social-nav {
+
+    ul {
+        list-style: none;
+        margin: 0;
+        @include inline-block-list;
+        li {
+        }
+    }
+    a {
+        display: block;
+        text-indent: -99999px;
+        &:hover {
+          background-color: #CCC;
+          border-radius: 5px;
+          -webkit-border-radius: 5px;
+        }
+        &.twitter {
+            @include social-icon('/assets/images/site/twitter-btn.svg','/assets/images/site/twitter-btn.png');
+            width: 35px;
+            background-size: 22px;
+        }
+        &.pinterest {
+            @include social-icon('/assets/images/site/pinterest-btn.svg','/assets/images/site/pinterest-btn.png');
+            width: 31px;
+            background-size: 15px;
+        }
+        &.etsy {
+            @include social-icon('/assets/images/site/etsy-btn.svg','/assets/images/site/etsy-btn.png');
+            width: 53px;
+            background-size: 38px;
+        }
+    }
+}
+.posts article {
+    max-width: 720px;
+    margin: 0 auto 3em;
+    h2 {
+        margin:0;
+        @include adjust-font-size-to(21px);
+        font-weight: normal;
+        a {
+            color: #444;
+            text-decoration: none;
+        }
+    }
+    .date {
+        color: #666;
+        clear: both;
+        font-size: 12px;
+        line-height: 18px;
+        margin-top:0;
+
+    }
+}
+
+article.post {
+    max-width: 720px;
+    margin: auto;
+    h1 {
+        @include adjust-font-size-to(21px);
+        font-weight: normal;
+        color: #444;
+        text-decoration: none;
+        margin:0;
+    }
+    .date {
+        color: #666;
+        clear: both;
+        font-size: 12px;
+        line-height: 18px;
+        margin-top:0;
+    }
+}
+
+.footer {
+    border-top: 2px dashed #aac3d0;
+}
+
+
+
+@import 'print';

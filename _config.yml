@@ -1,2 +1,12 @@
-name: Your New Jekyll Site
-markdown: redcarpet
+name: The Crafty Chickadee
+safe: true
+permalink: /blog/:year/:month/:day/:title
+
+exclude:
+  - config.rb
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - .*
+  - CNAME
+  - nohup.out

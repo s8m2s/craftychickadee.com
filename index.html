@@ -2,12 +2,12 @@
 layout: default
 title: The Crafty Chickadee
 ---
-
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
+<div class="posts">
+{% for post in site.posts %}
+  <article>
+  	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  	<span class="date">{{ post.date | date_to_string }}</span>
+  	{{ post.excerpt }} <a href="{{ post.url }}">read more</a>
+  </article>
+{% endfor %}
 </div>

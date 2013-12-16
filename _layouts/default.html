@@ -1,41 +1,36 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-        <title>{{ page.title }}</title>
-        <meta name="viewport" content="width=device-width">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width">
 
-        <!-- Custom CSS -->
-        <link rel="stylesheet" href="/css/main.css">
+    <link rel="stylesheet" href="/stylesheets/main.css">
 
-    </head>
-    <body>
-
-        <div class="site">
-          <div class="header">
-            <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-          </div>
-
-          {{ content }}
-
-          <div class="footer">
-            <div class="contact">
-              <p>
-                Your Name<br />
-                What You Are<br />
-                you@example.com
-              </p>
-            </div>
-            <div class="contact">
-              <p>
-                <a href="https://github.com/yourusername">github.com/yourusername</a><br />
-                <a href="https://twitter.com/yourusername">twitter.com/yourusername</a><br />
-              </p>
-            </div>
-          </div>
+  </head>
+  <body>
+      <header class="header">
+        <div class="nameplate"><a href="/">{{ site.name }}</a></div>
+        <div class="social-nav">
+          <ul>
+            <li>
+              <a class="twitter" href="http://twitter.com/craftychickadee" target="_blank" name="Twitter">Twitter</a>
+            </li>
+            <li>
+              <a class="pinterest" href="http://pinterest.com/crftychickadee" target="_blank" name="Pinterest">Pinterest</a>
+            </li>
+            <li>
+              <a class="etsy" href="http://etsy.com/shop/thecraftychickadee" target="_blank" name="Etsy">tsy</a>
+            </li>
+          </ul>
         </div>
+      </header>
 
-    </body>
+      {{ content }}
+
+      <footer class="footer">
+      </footer>
+
+  </body>
 </html>
