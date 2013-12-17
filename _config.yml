@@ -1,6 +1,6 @@
 name: The Crafty Chickadee
 safe: true
-permalink: /blog/:year/:month/:day/:title
+permalink: /:year/:month/:day/:title
 
 exclude:
   - config.rb
